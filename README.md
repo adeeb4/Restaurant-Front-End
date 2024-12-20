@@ -1,8 +1,13 @@
-# React + Vite
+# Restaurant Front-End
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+• Developed Interactive UI: Designed and implemented an
+intuitive and visually appealing user interface ,seamless
+navigation and user engagement.
 
-Currently, two official plugins are available:
+• Component-based Architecture: Followed a modular ap-
+proach to build reusable components, enhancing scalabil-
+ity and maintainability of the codebase.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+• User Authentication: Integrated Firebase Authentication
+to enable secure login, sign-up, and account management
+for users.
